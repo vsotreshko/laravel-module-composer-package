@@ -2,9 +2,9 @@
 
 namespace Brackets\LaravelModuleComposerPackage\Tests;
 
+use Brackets\LaravelModuleComposerPackage\LaravelModuleComposerPackageServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Brackets\LaravelModuleComposerPackage\LaravelModuleComposerPackageServiceProvider;
 
 class TestCase extends Orchestra
 {

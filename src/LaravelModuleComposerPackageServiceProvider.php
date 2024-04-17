@@ -2,9 +2,9 @@
 
 namespace Brackets\LaravelModuleComposerPackage;
 
+use Brackets\LaravelModuleComposerPackage\Commands\LaravelModuleComposerPackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Brackets\LaravelModuleComposerPackage\Commands\LaravelModuleComposerPackageCommand;
 
 class LaravelModuleComposerPackageServiceProvider extends PackageServiceProvider
 {
