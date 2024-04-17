@@ -1,5 +1,5 @@
 {
-    "name": "brackets/craftable-pro/modules/laravel-module-composer-package",
+    "name": "brackets/laravel-composer-package-module",
     "description": "This is my package laravel-module-composer-package",
     "keywords": [
         "brackets",
